@@ -1,3 +1,6 @@
+# 1.1.1
+- Updated Geode version to v5.0.0.
+
 # 1.1.0
 - Completely restructured and reworked most of the mod's code.
 - Finally fixed a bug that would sometimes incorrectly fetch new quests when starting the game.
